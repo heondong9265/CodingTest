@@ -1,3 +1,6 @@
+// 벨로그 정리
+// https://velog.io/@beheon/%EA%B5%AC%EA%B0%84-%ED%95%A9
+
 public class PrefixSum_example {
     public static void main(String[] args){
         int[] A =  {7, 2, 9 ,5, 4, 1}; //배열 A
