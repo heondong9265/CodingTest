@@ -1,4 +1,4 @@
-// TODO : 투 포인터 응용 2
+// TODO : 투 포인터 응용 2 - 주몽
 
 // 벨로그 정리
 // https://velog.io/@beheon/%ED%88%AC-%ED%8F%AC%EC%9D%B8%ED%84%B02
